@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>前台还没写就想访问，拜托你 OK？
